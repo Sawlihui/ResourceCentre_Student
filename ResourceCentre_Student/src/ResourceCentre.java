@@ -221,6 +221,7 @@ public class ResourceCentre {
 	}
 	
 	//================================= Option 4 Return =================================
+	//camcorder 
 	public static boolean doReturnCamcorder(ArrayList<Camcorder> camcorderList,String tag) {
 		boolean isReturned = false;
 
@@ -251,12 +252,17 @@ public class ResourceCentre {
 	public static boolean doReturnChromebook(ArrayList<Chromebook> chromebookList,String tag){
 		boolean isReturned = false;
 		// write your code here
+		
 		return isReturned;
 	}
+	
+	//chromebook 
 	public static void returnChromebook(ArrayList<Chromebook> chromebookList) {
 		// write your code here
+			
+		}
 		// write your code here
 	}
 
 
-}
+
