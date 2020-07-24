@@ -99,9 +99,6 @@ public class ResourceCentreTest {
 	
 	@Test
 	public void doReturnCamcorderTest() {
-		//fail("Not yet implemented");
-		// write your code here
-		
 		//boundary 
 		assertNotNull("check if there is valid camcorder arraylist to add",camcorderList);
 		ResourceCentre.addCamcorder(camcorderList, cc1);
@@ -124,7 +121,6 @@ public class ResourceCentreTest {
 	}
 	@Test
 	public void doReturnChromebookTest() {
-		//fail("Not yet implemented");
 		// write your code here
 		
 		//boundary 
